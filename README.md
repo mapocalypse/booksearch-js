@@ -1,5 +1,5 @@
-# Biblioteca XPTO
-Biblioteca XPTO é um projeto de e-commerce desenvolvido durante primeiro módulo do curso UPskill.
+# Book Search
+Projeto desenvolvido durante primeiro módulo do curso UPskill.
 
 ## Funcionalidades implementadas
 - Formulário de registo de utilizador						
