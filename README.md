@@ -1,5 +1,5 @@
 # Book Search
-Project developed during the first module of the UPskill course.
+Project focused on HTML, CSS and JavaScript developed during the first module of the UPskill course.
 
 ## Features
 - User registration form
